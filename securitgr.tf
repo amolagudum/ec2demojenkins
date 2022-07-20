@@ -1,4 +1,4 @@
-resource "aws_security_group" "sg-ec2-amol" {
+resource "aws_security_group" "sg-ec2-amol12" {
   name        = "allow_tls"
   description = "Allow TLS inbound traffic"
   
