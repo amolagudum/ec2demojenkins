@@ -1,2 +1,2 @@
 # ec2demojenkins
-Integration of terraform and jenkins
+scripted pipeline with Integration of terraform and jenkins
