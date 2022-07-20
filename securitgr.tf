@@ -1,5 +1,5 @@
 resource "aws_security_group" "sg-ec2-amol12" {
-  name        = "allow_tls"
+  name        = "allow_taals"
   description = "Allow TLS inbound traffic"
   
 
