@@ -1,5 +1,5 @@
 resource "aws_security_group" "amolsg" {
-  name        = "allow_tls"
+  name        = "allow_tlsz"
   description = "Allow TLS inbound traffic"
   
 
